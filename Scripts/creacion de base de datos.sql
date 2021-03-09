@@ -25,6 +25,7 @@ luzatze int
 
 create table produktu(
 ID int primary key,
+DesPro varchar(25),
 pre_com int,
 pre_ven int,
 fec_cad date,
